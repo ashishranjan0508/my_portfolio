@@ -132,7 +132,7 @@ export const PROJECTS = [
     image: assets.portfolio_image,
     tech: ["React", "Node.js", "MongoDB", "JWT", "Cloudinary"],
     live: "#",
-    github: "#",
+    github: "https://github.com/ashishranjan0508/my_portfolio",
   },
 ];
 
